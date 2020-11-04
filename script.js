@@ -1,1 +1,1 @@
-poop
+document.write("Hi")
